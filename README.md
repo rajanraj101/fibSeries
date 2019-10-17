@@ -1,13 +1,7 @@
 # fibSeries
 access google finance for NSE share price and implements the fib series.
 
-![alt text](https://github.com/rajanraj101/fibSeries/blob/master/images/sample.jpg)
+![Sample Image ](https://github.com/rajanraj101/fibSeries/blob/master/images/sample.jpg)
 
 
-```plantuml
-@startuml
-
-Bob -> Alice: Hello!
-
-@enduml
-```
+![ UML CLass Diagram](http://www.plantuml.com/plantuml/proxy?src=https://github.com/rajanraj101/fibSeries/blob/master/documentation/class-diagram.txt)
